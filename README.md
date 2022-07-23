@@ -3,9 +3,10 @@
 - 🔭 I’m currently working on: 
 1. business application for auto parts sales managers on a stack javascript,
 2. backend of an online store on a stack mongo, express, react, node
+3. full-stack development sales managers on a stack react, graphQL, rabbitMQ, nest.js, apollo, node.js, telegramm API
 
    Мои навыки: - Html5, CSS3, JavaScript, React, Redux,
-Next, Typescript, Express, SASS, LESS, Git, Webpack, MongoDB, mySql, PHP8, изучаю английский язык:  чтение технической документации.
+Next, Typescript, Nest.js, GraphQL, RabbitMQ, Express, SASS, LESS, Git, Webpack, MongoDB, mySql, PHP8, изучаю английский язык:  чтение технической документации.
 
 Мои проекты на Github:
 1. Сервис авторизации с возможностью добавления файлов изображений:

@@ -37,14 +37,13 @@ Next, Typescript, Nest.js, GraphQL, RabbitMQ, Express, SASS, LESS, Git, Webpack,
 14.  Слайдeр на ванильном JS: https://github.com/Taras-js/Slider_OOP
 15.  Модальное окно на React: https://github.com/Taras-js/modal-window-from-react
 
-Планирую переезд в г. Москва в 2022 г.
 кандидат педагогических наук, доцент.
 занимаюсь самообразованием.
-Женат, два сына 6 и 16 лет.
+Женат, два сына 7 и 17 лет.
 - 🌱 I’m currently learning:
 1. php8,
 2. sql,
-3. 3.vue
+3. vue
 
 - 📫 How to reach me: 
 - telegram: https://t.me/Taras_JavaScript
